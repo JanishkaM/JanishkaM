@@ -3,7 +3,6 @@
 
 ![Cover Image](https://linkedinbackground.com/download/Perfect-Setup-For-Work-From-Home.jpg)
 
-
 - 🌱 I’m currently learning **React, NodeJs, Vue**
 
 - 💬 Ask me about **CSS, JavaScript**
